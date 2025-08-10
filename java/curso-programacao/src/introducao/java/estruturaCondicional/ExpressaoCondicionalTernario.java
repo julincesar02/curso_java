@@ -1,6 +1,6 @@
 package introducao.java.estruturaCondicional;
 
-public class ExpressaoCondicionalTermica {
+public class ExpressaoCondicionalTernario {
     public static void main(String[] args) {
         double preco = 47.5;
         double desconto = (preco < 5) ? preco * 2 : preco * 1.5;
