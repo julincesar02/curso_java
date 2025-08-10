@@ -22,7 +22,5 @@ public class EntradaDeDados {
         System.out.printf("Nome: %s Sexo: %s idade: %d salario: %.2f" , nome , sexo , idade , salario);
         sc.close();
 
-
-
     }
 }
