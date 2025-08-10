@@ -12,3 +12,4 @@ public class EstruturaSimples {
         System.out.println("Boa noite");
     }
 }
+
