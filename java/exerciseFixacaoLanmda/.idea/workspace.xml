@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c609962c-4d7d-4464-987e-afd87ef50483" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Consumer/Consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/src/util/PriceUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/Function.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/src/util/UpperCaseName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunctionTwo/FunctionTwo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunctionTwo/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunctionTwo/src/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Predicate/src/util/ProductPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exerciseFixacaoS/exerciseFixacaoS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exerciseFixacaolambda/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exerciseFixacaolambda/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exerciseFixacaolambda/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exerciseFixacaolambda/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exerciseFixacaolambda/exerciseFixacaolambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exerciseFixacaolambda/src/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exerciseFixacaolambda/src/in.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exerciseResolve/exerciseResolve.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exerciseResolve/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exerciseResolve/src/product.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pipelineDemo/pipelineDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primaryOrdem/primaryOrdem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../primaryOrdem/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stream/stream.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../streamDemo/streamDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../transparation_function/transparation_function.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Map/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map02/src/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Map02/src/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Predicate/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Predicate/src/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Predicate/src/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-programacao/src/introducao/poo/hashCodeAndEquals/aplication/hasdCodeOrEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-programacao/src/introducao/poo/hashCodeAndEquals/aplication/hasdCodeOrEquals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-programacao/src/introducao/poo/hashCodeAndEquals/entities/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-programacao/src/introducao/poo/hashCodeAndEquals/entities/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicioDoJander/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicioDoJander/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exerciciodoEverton/src/enums/StatusPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exerciciodoEverton/src/enums/StatusPedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../introducaoPfuncional/src/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introducaoPfuncional/src/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/dictionaries/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/ExpirienciaComComparator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Mycomparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/entities/Product.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;julincesar02&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:ricardoriverac/youxlab-treino-git.git&quot;,
+    &quot;accountId&quot;: &quot;a86ff0f7-6a58-4f29-9d90-8a6a3c6bd24d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2zgq5RTbVOc2iqzRhZnE7nIKwlN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;laber-julio-cesar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/youx/workspace-git/youxlab-treino-git/java/exerciseFixacaoLanmda&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/youx/workspace-git/youxlab-treino-git/java/exerciseFixacaoLanmda/src/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c609962c-4d7d-4464-987e-afd87ef50483" name="Changes" comment="" />
+      <created>1752162985228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752162985228</updated>
+    </task>
+    <servers />
+  </component>
+</project>

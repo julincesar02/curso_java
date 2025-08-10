@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b79312d-9058-4448-bcf3-39a78f177346" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Map/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Map/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map02/src/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Map02/src/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Predicate/src/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Predicate/src/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-programacao/src/introducao/poo/hashCodeAndEquals/aplication/hasdCodeOrEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-programacao/src/introducao/poo/hashCodeAndEquals/aplication/hasdCodeOrEquals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-programacao/src/introducao/poo/hashCodeAndEquals/entities/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-programacao/src/introducao/poo/hashCodeAndEquals/entities/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicioDoJander/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicioDoJander/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicioDoJander/src/entities/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exerciciodoEverton/src/entities/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exerciciodoEverton/src/enums/StatusPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exerciciodoEverton/src/enums/StatusPedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../introducaoPfuncional/src/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introducaoPfuncional/src/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpirienciaComComparator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mycomparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Product.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;julincesar02&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:ricardoriverac/youxlab-treino-git.git&quot;,
+    &quot;accountId&quot;: &quot;a86ff0f7-6a58-4f29-9d90-8a6a3c6bd24d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ze3zCvicPO3yARnBxwHn8j4sK2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "laber-julio-cesar",
+    "onboarding.tips.debug.path": "/home/youx/workspace-git/youxlab-treino-git/java/untitled/src/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b79312d-9058-4448-bcf3-39a78f177346" name="Changes" comment="" />
+      <created>1752077972233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752077972233</updated>
+    </task>
+    <servers />
+  </component>
+</project>

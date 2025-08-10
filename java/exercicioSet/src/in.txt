@@ -1,0 +1,9 @@
+alex 1200.00
+pedro 3000.00
+marcelo 4000.00
+sergio 5000.00
+mariane 1200.00
+bernando 2000.00
+vitorhugo 2000.00
+alex 3000.00
+mariane 2000.00
