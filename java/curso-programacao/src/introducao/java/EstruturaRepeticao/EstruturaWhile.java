@@ -16,3 +16,4 @@ public class EstruturaWhile {
         System.out.println(soma);
     }
 }
+
