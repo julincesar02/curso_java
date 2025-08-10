@@ -1,5 +1,6 @@
 package introducao.java.EstruturaRepeticao;
 
+// No curso pede para pegar um papel e caneta e tentar adivinhar o resultado que vai dar.
 public class Tabela_Mesa {
     public static void main(String[] args) {
         int x = 5;
