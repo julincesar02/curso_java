@@ -35,6 +35,5 @@ public class SwitchCase {
                 System.out.println("Valor invalido");
 
         }
-
     }
 }

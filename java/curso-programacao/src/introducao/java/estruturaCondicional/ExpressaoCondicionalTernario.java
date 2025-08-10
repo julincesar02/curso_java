@@ -16,3 +16,4 @@ public class ExpressaoCondicionalTernario {
         System.out.println(resultado);
     }
 }
+
