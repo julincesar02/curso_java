@@ -16,3 +16,4 @@ public class Estruturafor {
         System.out.println(soma);
     }
 }
+
