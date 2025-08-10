@@ -9,6 +9,7 @@ public class SwitchCase {
         Scanner sc = new Scanner(System.in);
         int dia;
         dia = sc.nextInt();
+
         switch (dia) {
             case 1:
                 System.out.println("Domingo");
