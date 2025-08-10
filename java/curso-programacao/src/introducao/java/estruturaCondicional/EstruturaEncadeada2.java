@@ -23,3 +23,4 @@ public class EstruturaEncadeada2 {
         System.out.println(categoria);
     }
 }
+
