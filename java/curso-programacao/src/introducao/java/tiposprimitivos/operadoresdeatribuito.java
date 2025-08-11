@@ -15,7 +15,6 @@ public class operadoresdeatribuito {
             conta += (minuto - 100) * 2.0;
         }
         System.out.printf("Valor da conta e R$%.2f", conta);
-
     }
 }
 
